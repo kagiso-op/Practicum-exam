@@ -1,3 +1,7 @@
+Kagiso mahamba .ST10477287
+Github link:https://github.com/kagiso-op/Practicum-exam.git
+
+
 Hello today i shell introduce my app to you called Music manager
 
 Music manager is an app which was made within android studio , by the usage of Kotlin coding.
